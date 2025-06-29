@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "git-cli-example",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
